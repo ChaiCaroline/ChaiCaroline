@@ -1,6 +1,11 @@
 ## Olá! Eu sou a Chaiene Caroline 👋✨🕹️
 
 Apaixonada por tecnologia, que adora sempre bons desafios, buscando sempre ajudar o próximo. Decidir fazer a transição para a carreia dos meus sonhos na área de programação em 2022.
+- Estudante de Desenvolvimento de Software na Cubos Academy;
+- Evoluindo como programadora e pessoa;
+- Estou em busca da minha primeira oportunidade como programadora;
+
+## Habilidades
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
