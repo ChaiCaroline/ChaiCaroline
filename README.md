@@ -1,6 +1,6 @@
 <h2 align="left">🖖 Olá! Eu sou a Chaiene Caroline 👋✨🕹️</h2>
 
-[![](https://visitcount.itsvg.in/api?id=ChaiCaroline&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChaiCaroline&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ###
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR2OGdoZTNhM3A1NzlybWI0cHFjdnFveHZodGs5cnE0b3BkdnM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif"  />
@@ -63,18 +63,8 @@
 </div>
 
 ## Meu Github
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChaiCaroline&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiCaroline&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ChaiCaroline&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChaiCaroline&theme=jolly&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiCaroline&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Troféus
-![](https://github-profile-trophy.vercel.app/?username=ChaiCaroline&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
