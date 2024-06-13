@@ -5,7 +5,7 @@
 ###
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR2OGdoZTNhM3A1NzlybWI0cHFjdnFveHZodGs5cnE0b3BkdnM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif"  />
 
-<p align="left">💫Apaixonada por tecnologia, que adora sempre bons desafios, buscando sempre ajudar o próximo. Decidir fazer a transição para a carreia dos meus sonhos na área de programação em 2022.<br><br>- Estudante de Desenvolvimento de Software e de Testes de Automação;<br>- Evoluindo como programadora e QA e pessoa;</p>
+<p align="left">💫Apaixonada por tecnologia, que adora sempre bons desafios, buscando sempre ajudar o próximo. Decidir fazer a transição para a carreia dos meus sonhos na área de programação em 2022.<br><br>- Estudante de Desenvolvimento de Software e de Testes de Automação;<br>- Evoluindo como programadora, QA e pessoa;</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/chaiene-caroline/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
