@@ -1,11 +1,27 @@
-<h2 align="left">Olá! Eu sou a Chaiene Caroline 👋✨🕹️</h2>
+<h2 align="left">🖖 Olá! Eu sou a Chaiene Caroline 👋✨🕹️</h2>
+
+[![](https://visitcount.itsvg.in/api?id=ChaiCaroline&icon=7&color=10)](https://visitcount.itsvg.in)
 
 ###
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR2OGdoZTNhM3A1NzlybWI0cHFjdnFveHZodGs5cnE0b3BkdnM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif"  />
 
-<p align="left">💫 Sobre mim:<br>Apaixonada por tecnologia, que adora sempre bons desafios, buscando sempre ajudar o próximo. Decidir fazer a transição para a carreia dos meus sonhos na área de programação em 2022.<br><br>- Estudante de Desenvolvimento de Software e de Testes de Automação;<br>- Evoluindo como programadora e QA e pessoa;</p>
+<p align="left">💫Apaixonada por tecnologia, que adora sempre bons desafios, buscando sempre ajudar o próximo. Decidir fazer a transição para a carreia dos meus sonhos na área de programação em 2022.<br><br>- Estudante de Desenvolvimento de Software e de Testes de Automação;<br>- Evoluindo como programadora e QA e pessoa;</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/chaiene-caroline/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="chaiene.caroline" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="chaiene_caroline@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="Chaiene Caroline Cursino Rocha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+</div>
 
-###
-
+## 💻 Minhas Habilidades:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -46,48 +62,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-###
+## Meu Github
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChaiCaroline&theme=ambient_gradient&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiCaroline&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaiCaroline&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaiCaroline&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ChaiCaroline&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ChaiCaroline&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🏆 GitHub Troféus
+![](https://github-profile-trophy.vercel.app/?username=ChaiCaroline&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR2OGdoZTNhM3A1NzlybWI0cHFjdnFveHZodGs5cnE0b3BkdnM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/chaiene-caroline/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="chaiene.caroline" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="chaiene_caroline@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="Chaiene Caroline Cursino Rocha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChaiCaroline/ChaiCaroline/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ChaiCaroline/count.svg?"  />
-</div>
-
-###
+---
